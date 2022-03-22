@@ -36,7 +36,7 @@ const Login = () =>{
     return(
         
            <div>
-            <img src={logo} alt="" width='450vh' align="left"  />
+            <img src={logo} alt="" width='450vh' align="left"  height='100%' />
             
             <Grid align='left'  >
             
